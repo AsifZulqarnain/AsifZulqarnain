@@ -1,4 +1,4 @@
-![logo](https://github.com/AsifZulqarnain/AsifZulqarnain/blob/main/1663963527169.jfif)
+![logo](https://github.com/AsifZulqarnain/AsifZulqarnain/blob/main/Banner.jfif)
 <h1 align="center">Hi 👋, I'm Zulqarnain</h1>
 <h3 align="center">Dedicated Computer Science student currently in my 7th semester with a strong passion for leveraging cutting-edge technologies to solve complex problems.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
